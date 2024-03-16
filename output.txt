@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------
+IHC Hospital
+101 Daehak-ro, Yeongeon-dong,
+Jongno-gu, Seoul, Seoul 03080
+
+Patient code/name: 12903  Yoo Chan-wook	Sex: M	Date of birth:  2000-04-27
+Address: 660-16 Sinsa-dong Gangnam-gu, Seoul, South Korea 06018	                        Date: 2022-08-02
+                                                                                        Time: 01:31:20
+  NDC                 List          Amount       Unit      Price
+-----------------------------------------------------------------------------
+ 2389         Aspirin                 20         TAB       23.8
+ 5193     Amoxicillin                 42         CAP      168.0
+ 1068      Cetirizine                  7         CAP        4.2
+ 2329     Nasal Spray                  1       SPRAY      177.0
+ 1026     Paracetamol                 20         TAB        6.4
+
+-----------------------------------------------------------------------------
+                                  The total amount      379.40   BATH
+                                  Expenses insurance    113.82   BATH
+                                  Total payment         265.58   BATH

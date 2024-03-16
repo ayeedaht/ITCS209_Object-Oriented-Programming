@@ -1,0 +1,8 @@
+12903, Yoo Chan-wook, M, 2000-04-27
+660-16 Sinsa-dong Gangnam-gu, Seoul, South Korea 06018
+
+Aspirin, 20, TAB
+Amoxicillin, 42, CAP
+Cetirizine, 7, CAP
+Nasal Spray, 1, SPRAY
+Paracetamol, 20, TAB
